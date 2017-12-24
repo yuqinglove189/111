@@ -20,8 +20,5 @@ function bottlesSong(number){
             "Go to the store and buy some more, 99 bottles of beer on the wall.";
         return result;
     }
-
-    
 }
-
 module.exports = bottlesSong;
